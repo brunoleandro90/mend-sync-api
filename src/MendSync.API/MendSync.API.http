@@ -1,0 +1,6 @@
+@MendSync.API_HostAddress = http://localhost:5257
+
+GET {{MendSync.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
