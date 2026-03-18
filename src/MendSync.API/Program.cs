@@ -8,7 +8,6 @@ using MendSync.Infrastructure.Token;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.OpenApi.Models;
-using Oracle.EntityFrameworkCore;
 using Polly;
 using Polly.Extensions.Http;
 using Serilog;
